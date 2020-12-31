@@ -1,3 +1,3 @@
-# Assisted-living-for-Alzheimer-s-patients
-This Exploravision project concerns a visual impairment aid for Alzheimer's patients using cognitive services.
+# 2018 Exploravision
+This Exploravision project concerns a protein-caused visual impairment aid for Alzheimer's patients using cognitive services.
 
